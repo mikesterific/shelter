@@ -6499,24 +6499,6 @@
             },
             "type": "wordpress-theme",
             "homepage": "https://wordpress.org/themes/twentytwentyfour/"
-        },
-        {
-            "name": "wpackagist-theme/twentytwentythree",
-            "version": "1.5",
-            "source": {
-                "type": "svn",
-                "url": "https://themes.svn.wordpress.org/twentytwentythree/",
-                "reference": "1.5"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/twentytwentythree.1.5.zip"
-            },
-            "require": {
-                "composer/installers": "^1.0 || ^2.0"
-            },
-            "type": "wordpress-theme",
-            "homepage": "https://wordpress.org/themes/twentytwentythree/"
         }
     ],
     "packages-dev": [
